@@ -6,6 +6,7 @@ This repository is dedicated to managing content updates for [dataquerylab.com](
 This repository serves as a content management space for our Fiverr collaboration. It allows easy sharing of content before integration into WordPress.
 
 ## Structure
+```
 ├── README.md
 ├── content/
 │   ├── homepage/
@@ -20,3 +21,4 @@ This repository serves as a content management space for our Fiverr collaboratio
 │
 └── assets/
     └── images/
+```
