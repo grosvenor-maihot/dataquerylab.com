@@ -1,6 +1,7 @@
 ---
 section: hero
 priority: 1
+background_image: "/assets/images/homepage/hero-background.jpg"
 ---
 
 # Transform Your Data into Actionable Insights
