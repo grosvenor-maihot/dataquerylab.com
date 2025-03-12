@@ -1,8 +1,8 @@
 # Service Markdown Files for DataQueryLab.com
 
-## services/overview.md
-## services/data-science-consulting.md
-## services/data-engineering.md
-## services/geospatial-analytics.md
-## services/bigquery-expertise.md
-## services/custom-analytics.md
+## overview.md
+## data-science-consulting.md
+## data-engineering.md
+## geospatial-analytics.md
+## bigquery-expertise.md
+## custom-analytics.md
