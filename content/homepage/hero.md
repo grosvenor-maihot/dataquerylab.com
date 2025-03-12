@@ -1,14 +1,12 @@
 ---
-title: "Data Science & Engineering Excellence"
-position: "hero"
+section: hero
+priority: 1
 ---
 
-# Transforming Data into Business Value
+# Transform Your Data into Actionable Insights
 
-We specialize in delivering high-impact data solutions through:
-- Advanced Analytics
-- GeoSpatial Intelligence
-- BigQuery Optimization
-- Custom Data Engineering
+DataQueryLab delivers expert data science and engineering solutions tailored to your business needs. We turn complex data challenges into strategic advantages.
 
-[CTA Button Text: "Explore Our Services"]
+## Specializing in GeoSpatial Analytics & BigQuery Optimization
+
+[Explore Services](#services) [View Case Studies](#case-studies)
